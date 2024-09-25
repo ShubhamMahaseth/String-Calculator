@@ -1,6 +1,6 @@
 {
   "name": "string-calculator",
-  "homepage": "http://shubham.github.io/String-Calculator",
+  "homepage": "http://shubham.github.io/string-calculator",
   "private": true,
   "version": "0.0.0",
   "type": "module",
